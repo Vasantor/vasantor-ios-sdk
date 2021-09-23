@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Vasantor'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'SDK for interfacing multiple languages using localize key APIs.'
 
   s.description      = <<-DESC
@@ -11,7 +11,7 @@ Vasantor is quickest, most convenient, and safest way to integrate multiple lang
   s.license          = { :type => 'Apache v2', :file => 'LICENSE' }
   
   s.author           = { 'rakib' => 'rakib@newroztech.com' }
-  s.source           = { :http => 'https://bitbucket.org/dev-newroz/vasantor-ios-sdk/raw/68c1ed098c4744c8de184045f11a96e30970bf0f/Vasantor.zip' }
+  s.source           = { :http => 'https://bitbucket.org/fastpaycode/vasantor-ios-sdk/raw/391307d8e33c69eeecbf363f1560c062f5e38db1/Vasantor.zip' }
 
   
   s.ios.deployment_target = '11.0'
